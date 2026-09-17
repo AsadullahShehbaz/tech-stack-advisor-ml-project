@@ -1,4 +1,4 @@
-# 🧠 Tech Stack Advisor – ML App (with Docker & Hugging Face Deployment)
+# 🧠 Tech Stack Advisor – ML App (with Docker Hub Deployment)
 
 **Tech Stack Advisor** is a hands-on machine learning project designed to teach you how to build, containerize, and deploy an ML-powered web application using Docker and Hugging Face Spaces.
 
