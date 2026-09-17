@@ -12,7 +12,6 @@
 - Create a UI using `Gradio`
 - Containerize your app using a Dockerfile
 - Push your Docker image to Docker Hub
-- Deploy the Dockerized app on Hugging Face Spaces (free tier)
 
 ---
 
@@ -139,17 +138,6 @@ docker push <your-dockerhub-username>/tech-stack-advisor:latest
 
 ---
 
-## 🌐 Step 6: Deploy to Hugging Face Spaces
-
-1. Go to [huggingface.co/spaces](https://huggingface.co/spaces)
-2. Click **Create New Space**
-3. Select:
-
-   * **SDK**: Docker
-   * **Repository**: Link to your GitHub repo with the Dockerfile
-4. Hugging Face will auto-build and deploy your container.
-
----
 
 ## 🧪 Test Your Skills
 
